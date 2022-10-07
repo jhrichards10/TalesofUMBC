@@ -32,7 +32,6 @@ if(myCharacter == "A"):
     print()
     print("You searched and searched for the rest of your life, but you never found it.")
     print("It might`ve been a good idea to heed the blacksmith`s advice and go to a cold place")
-print()
 
 # User picks character B
 if(myCharacter == "B"):
@@ -48,7 +47,6 @@ if(myCharacter == "B"):
     print("You are forever known as one of the smartest in the land! ")
   else:
     print("'Oh NO!' the teacher exclaims, you have answered incorrectly and have failed the students.")
-print()
 
 # User picks character C
 if(myCharacter == "C"):
@@ -70,7 +68,7 @@ if(myCharacter == "C"):
     print("The dragon decides to leave your kingdom alone, and the King declares you are the greatest hero in all the land")
   else:
     print("'You have answered incorrectly' the dragon says excitedly. Your kingdom is now mine and you have failed all your fellow citizens.")
-print()
 
 # Print the End
+print()
 print("~ The End ~ ")
