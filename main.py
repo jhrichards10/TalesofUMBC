@@ -39,8 +39,7 @@ if(myCharacter == "B"):
   print("'I haveto be honest with you,' they say. 'I am not really qualified to teach and am struggling with this question'")
   print("They gesture to a math equation that reads as follows:")
   print("y = 6 + 2 + 1")
-  yAnswer = 6 + 2 + 1
-  yAnswer = int(yAnswer)
+  
   yAnswer = input("Please enter the solution to this problem: ")
   if(yAnswer == '9'):
     print("'That makes perfect sense!' the teacher cries, and they award you with an honorary  degree. ")
